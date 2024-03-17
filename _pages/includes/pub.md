@@ -6,7 +6,7 @@
 
 [Debiasing Multimodal Sarcasm Detection with Contrastive Learning](https://arxiv.org/pdf/2312.10493.pdf)
 
-Mengzhao Jia, Can Xie, Liqiang Jing
+Mengzhao Jia, **Can Xie**, Liqiang Jing
 
 [**Code**](https://github.com/xvolcano02/DMSD-CL) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
