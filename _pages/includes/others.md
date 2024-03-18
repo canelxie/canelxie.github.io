@@ -1,5 +1,5 @@
 # 📖 Educations
-- *2020.09 - 2024.06*, Undergraduate, School of Computer Science, Shandong Univeristy, Qingdao.
+- *2020.09 - 2024.06*, Undergraduate, School of Computer Science and Technology, Shandong Univeristy, Qingdao.
 - *2017.09 - 2020.06*, Shaodong No.1 Middle School, Shaodong.
 
 # 💬 Invited Talks
