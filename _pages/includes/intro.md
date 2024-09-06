@@ -2,4 +2,5 @@ I’m an optimistic, confident, self-disciplined and hardworking 4th year underg
 
 In September 2024, I am going to pursue a PhD degree at Institute of Automation Chinese Academy of Sciences ([CASIA](https://ia.cas.cn/)), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) without entrance examination, supervised by Prof. [Jiajun Zhang(张家俊)](https://www.nlpr.ia.ac.cn/cip/jjzhang.htm).
 
-My research interest includes natural language processing, neural machine translation and large language models.
+My research interests include multimodal learning and natural language processing. Now, I'm very interested in Evaluation and Alignment for Large Language Models (LLM).
+
