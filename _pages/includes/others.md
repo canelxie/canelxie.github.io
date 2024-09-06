@@ -1,9 +1,9 @@
 # 📖 Educations
-- *2020.09 - 2024.06*, Undergraduate, School of Computer Science and Technology, Shandong Univeristy, Qingdao.
-- *2017.09 - 2020.06*, Shaodong No.1 Middle School, Shaodong.
+- Ph.D. in Compute Science, Institute of Automation Chinese Academy of Sciences, Beijing, *2024.09 - present*.
+- Bachelor in Computer Science and Technology, Shandong Univeristy, Qingdao, *2020.09 - 2024.06*.
 
 # 💬 Invited Talks
-xx
+To be completed
 
 # 💻 Internships
-- *2021.06 - 2021.09*, Alibaba, Hangzhou.
+- To be completed
